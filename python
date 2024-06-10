@@ -1,1 +1,1 @@
-worker: python boteee.py
+worker: python cython.py
