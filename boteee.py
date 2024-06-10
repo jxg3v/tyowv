@@ -1,4 +1,3 @@
-#البـوت تطـويري بـنسبة 80% 
 import telebot
 import time
 import requests
@@ -8,7 +7,7 @@ import os
 from concurrent.futures import ThreadPoolExecutor as THREADING
 from telebot import types
 
-tok = '6499198312:AAG1VAJHQ9pf0XD7UHA2Em5zXhisPxkgwe8'# - Token
+tok = '6499198312:AAG1VAJHQ9pf0XD7UHA2Em5zXhisPxkgwe8'
 bot = telebot.TeleBot(tok)
 
 ugen2 = []
